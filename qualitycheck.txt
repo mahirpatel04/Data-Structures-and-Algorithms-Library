@@ -1,0 +1,102 @@
+15 points
+ Rubric Settings
+1
+-0.0
+Grading comment:
+Correct
+
+
+2
+-1.0
+Grading comment:
+Comments are too sparse
+
+Please try and create more descriptive comments.  Probably a line or two for a function, a line that describes what a for loop does, why an if is there.
+
+
+3
+-3.0
+Grading comment:
+Code is insufficiently commented (missing or very sparse)
+
+
+4
+-5.0
+Grading comment:
+Destructor is missing (and required)
+
+
+5
+-2.0
+Grading comment:
+Rule of Three violation (destructor, but no Copy C'tor nor assignment operator)
+
+
+6
+-5.0
+Grading comment:
+Code uses new, but doesn't have matching delete
+
+
+7
+-1.0
+Grading comment:
+Missing one of the rule of three
+
+
+8
+-1.0
+Grading comment:
+Dead or debug code left in place
+
+
+9
+-4.0
+Grading comment:
+Fails to check any input operations for success
+
+
+0
+-1.0
+Grading comment:
+Missed checking some input operations
+
+
+-3.0
+Grading comment:
+Fails to check most input operations for success
+
+
+-2.0
+Grading comment:
+Misc error.  See comment
+
+
+-2.0
+Grading comment:
+Poor variable name choices
+
+
+-2.0
+Grading comment:
+Parameters are inappropriately passed via non-const copy (e.g. use const string&)
+
+
+-3.0
+Grading comment:
+Leaks memory
+
+
+-2.0
+Grading comment:
+Style.... inconsistent indentation or other
+
+
+-2.0
+Grading comment:
+Missed a bunch of input tests for failure
+
+
+-4.0
+Grading comment:
+Code is inappropriately sub-optimal in runtime (e.g. Egregious long runtime, O(n) where O(1) would do) 
